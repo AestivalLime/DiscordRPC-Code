@@ -1,0 +1,2 @@
+This code only works For Discord Rich Presence
+This code does not work to show we are playing singleplayer or multiplayer.
