@@ -24,7 +24,7 @@ public class DiscordRP {
 			
 		}).build();
 		
-		DiscordRPC.discordInitialize("913289310122422303", handlers, true);
+		DiscordRPC.discordInitialize("Fill this with ur Discord App Id in discord https://discord.com/developers/applications!", handlers, true);
 		
 		new Thread("Discord RPC Callback") {
 			
